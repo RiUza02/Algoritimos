@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1627053314 source:d:\usuario\rodrigo anderson\desktop\aula8\main.cpp
+	<iostream>
+	"Aula8.h"
+
+1627052486 d:\usuario\rodrigo anderson\desktop\aula8\aula8.h
+
+1627053444 source:d:\usuario\rodrigo anderson\desktop\aula8\aula8.cpp
+	<iostream>
+	"Aula8.h"
+
+1628513280 source:d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula8\main.cpp
+	<iostream>
+	"Aula8.h"
+
+1628513580 d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula8\aula8.h
+
+1628514104 source:d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula8\aula8.cpp
+	<iostream>
+	"Aula8.h"
+

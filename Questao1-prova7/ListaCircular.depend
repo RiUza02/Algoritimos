@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1628266850 source:d:\usuario\rodrigo anderson\desktop\questao1\main.cpp
+	<iostream>
+	"ListaCircular.h"
+
+1628266770 d:\usuario\rodrigo anderson\desktop\questao1\listacircular.h
+	"NoDuplo.h"
+
+1626976032 d:\usuario\rodrigo anderson\desktop\questao1\noduplo.h
+
+1628549081 source:d:\usuario\rodrigo anderson\desktop\questao1\listacircular.cpp
+	<iostream>
+	"ListaCircular.h"
+

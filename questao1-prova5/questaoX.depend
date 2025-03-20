@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1626733779 source:d:\usuario\rodrigo anderson\desktop\questaox\main.cpp
+	<iostream>
+	"questaoX.h"
+
+1626733708 d:\usuario\rodrigo anderson\desktop\questaox\questaox.h
+	<cmath>
+
+1626733916 source:d:\usuario\rodrigo anderson\desktop\questaox\questaox.cpp
+	<iostream>
+	"questaoX.h"
+

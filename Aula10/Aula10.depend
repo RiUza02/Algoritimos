@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1629141400 source:d:\usuario\rodrigo anderson\desktop\aula10\nos.cpp
+	"Nos.h"
+
+1629141241 d:\usuario\rodrigo anderson\desktop\aula10\nos.h
+
+1629153435 source:d:\usuario\rodrigo anderson\desktop\aula10\main.cpp
+	<iostream>
+	"math.h"
+	"Pilha.h"
+	"Fila.h"
+	"Arvore.h"
+
+1629141502 source:d:\usuario\rodrigo anderson\desktop\aula10\fila.cpp
+	"Fila.h"
+	<iostream>
+
+1629141373 d:\usuario\rodrigo anderson\desktop\aula10\fila.h
+	"Nos.h"
+
+1629141603 source:d:\usuario\rodrigo anderson\desktop\aula10\pilha.cpp
+	"Pilha.h"
+	<iostream>
+
+1629141603 d:\usuario\rodrigo anderson\desktop\aula10\pilha.h
+	"Nos.h"
+
+1629153491 source:d:\usuario\rodrigo anderson\desktop\aula10\arvore.cpp
+	"Arvore.h"
+	"Fila.h"
+	"Pilha.h"
+	"math.h"
+	<iostream>
+
+1629153972 d:\usuario\rodrigo anderson\desktop\aula10\arvore.h
+	"Nos.h"
+
+1629141502 source:d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula10\fila.cpp
+	"Fila.h"
+	<iostream>
+
+1629141373 d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula10\fila.h
+	"Nos.h"
+
+1629141241 d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula10\nos.h
+
+1629141400 source:d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula10\nos.cpp
+	"Nos.h"
+
+1629141603 source:d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula10\pilha.cpp
+	"Pilha.h"
+	<iostream>
+
+1629141603 d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula10\pilha.h
+	"Nos.h"
+
+1629321817 source:d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula10\main.cpp
+	<iostream>
+	"math.h"
+	"Pilha.h"
+	"Fila.h"
+	"Arvore.h"
+
+1629321523 d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula10\arvore.h
+	"Nos.h"
+
+1629321943 source:d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula10\arvore.cpp
+	"Arvore.h"
+	"Fila.h"
+	"Pilha.h"
+	"math.h"
+	<iostream>
+

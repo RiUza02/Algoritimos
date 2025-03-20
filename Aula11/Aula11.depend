@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1629726257 source:d:\usuario\rodrigo anderson\desktop\aula11\main.cpp
+	<iostream>
+	"Aula11.h"
+
+1629726016 d:\usuario\rodrigo anderson\desktop\aula11\aula11.h
+	"No.h"
+
+1629714743 d:\usuario\rodrigo anderson\desktop\aula11\no.h
+
+1629714743 source:d:\usuario\rodrigo anderson\desktop\aula11\no.cpp
+	"No.h"
+
+1629726257 source:d:\usuario\rodrigo anderson\desktop\aula11\aula11.cpp
+	<iostream>
+	<stdlib.h>
+	<tgmath.h>
+	"Aula11.h"
+
+1630327847 source:d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula11\aula11.cpp
+	<iostream>
+	<stdlib.h>
+	<tgmath.h>
+	"Aula11.h"
+
+1630327826 d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula11\aula11.h
+	"No.h"
+
+1629714743 d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula11\no.h
+
+1630328028 source:d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula11\main.cpp
+	<iostream>
+	"Aula11.h"
+
+1629714743 source:d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula11\no.cpp
+	"No.h"
+

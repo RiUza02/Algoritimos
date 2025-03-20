@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1625837490 source:d:\usuario\rodrigo anderson\desktop\aula6\main.cpp
+	<iostream>
+	"Aula6.h"
+
+1625834509 d:\usuario\rodrigo anderson\desktop\aula6\aula6.h
+
+1625837459 source:d:\usuario\rodrigo anderson\desktop\aula6\aula6.cpp
+	<iostream>
+	"Aula6.h"
+
+1625837572 source:d:\usuario\rodrigo anderson\desktop\codigos\aula6\aula6.cpp
+	<iostream>
+	"Aula6.h"
+
+1625834509 d:\usuario\rodrigo anderson\desktop\codigos\aula6\aula6.h
+
+1625837490 source:d:\usuario\rodrigo anderson\desktop\codigos\aula6\main.cpp
+	<iostream>
+	"Aula6.h"
+

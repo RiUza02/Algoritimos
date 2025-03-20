@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1626736196 source:d:\usuario\rodrigo anderson\desktop\questaoy\main.cpp
+	<iostream>
+	"questaoy.h"
+
+1626735798 d:\usuario\rodrigo anderson\desktop\questaoy\questaoy.h
+
+1626736276 source:d:\usuario\rodrigo anderson\desktop\questaoy\questaoy.cpp
+	<iostream>
+	"questaoy.h"
+

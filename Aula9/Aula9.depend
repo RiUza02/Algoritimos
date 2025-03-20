@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1627662126 source:d:\usuario\rodrigo anderson\desktop\aula9\aula9.cpp
+	<iostream>
+	"Aula9.h"
+
+1627664900 d:\usuario\rodrigo anderson\desktop\aula9\aula9.h
+
+1627665262 source:d:\usuario\rodrigo anderson\desktop\aula9\main.cpp
+	<iostream>
+	"Aula9.h"
+
+1627665128 source:d:\usuario\rodrigo anderson\desktop\aula9\aula9.1.cpp
+	<iostream>
+	"Aula9.h"
+
+1628518852 source:d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula9\aula9.1.cpp
+	<iostream>
+	"Aula9.h"
+
+1628549640 d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula9\aula9.h
+
+1628549640 source:d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula9\aula9.cpp
+	<iostream>
+	"Aula9.h"
+
+1628549651 source:d:\usuario\rodrigo anderson\desktop\codigos de algoritimos\aula9\main.cpp
+	<iostream>
+	"Aula9.h"
+

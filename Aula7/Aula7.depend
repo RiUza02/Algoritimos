@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1626693615 source:d:\usuario\rodrigo anderson\desktop\aula7\main.cpp
+	<iostream>
+	"Aula7.h"
+
+1626693580 d:\usuario\rodrigo anderson\desktop\aula7\aula7.h
+
+1626713111 source:d:\usuario\rodrigo anderson\desktop\aula7\aula7.cpp
+	<iostream>
+	"Aula7.h"
+

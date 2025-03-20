@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1628550169 source:d:\usuario\rodrigo anderson\desktop\questao2-prova8\aula09\filaencad.cpp
+	<iostream>
+	<cstdlib>
+	"FilaEncad.h"
+
+1628550161 d:\usuario\rodrigo anderson\desktop\questao2-prova8\aula09\filaencad.h
+	"No.h"
+
+1528122242 d:\usuario\rodrigo anderson\desktop\questao2-prova8\aula09\no.h
+
+1628550173 source:d:\usuario\rodrigo anderson\desktop\questao2-prova8\aula09\pilhaencad.cpp
+	<iostream>
+	<cstdlib>
+	"PilhaEncad.h"
+
+1628550161 d:\usuario\rodrigo anderson\desktop\questao2-prova8\aula09\pilhaencad.h
+	"No.h"
+
+1628552458 source:d:\usuario\rodrigo anderson\desktop\questao2-prova8\aula09\main.cpp
+	<iostream>
+	"PilhaEncad.h"
+	"FilaEncad.h"
+

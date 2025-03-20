@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1627584197 source:d:\usuario\rodrigo anderson\desktop\tadpilhaencad\main.cpp
+	<iostream>
+	"PilhaEncad.h"
+
+1627582082 d:\usuario\rodrigo anderson\desktop\tadpilhaencad\pilhaencad.h
+	"No.h"
+
+1627582082 d:\usuario\rodrigo anderson\desktop\tadpilhaencad\no.h
+
+1627582932 source:d:\usuario\rodrigo anderson\desktop\tadpilhaencad\pilhaencad.cpp
+	<iostream>
+	"PilhaEncad.h"
+
